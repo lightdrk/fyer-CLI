@@ -1,0 +1,6 @@
+
+1689893126595 :: place_order ::  :: 1689893126669 :: {'s': 'error', 'code': -308, 'message': 'Please provide a valid limitPrice', 'id': ''}
+
+1689893151388 :: place_order ::  :: 1689893151582 :: {'s': 'error', 'code': -99, 'message': 'RED:RULE:{Check circuit limit including square off order}Current:INR 1,211.00 LowerCircuit:INR 1,390.85 UpperCircuit:INR 1,699.85:NSE.M&M-EQ for C-XM39841 [FYERS_RISK_CUG]', 'id': ''}
+
+1689893497179 :: place_order ::  :: 1689893497431 :: {'s': 'error', 'code': -99, 'message': 'RED:RULE:{Check circuit limit including square off order}Current:INR 1,211.00 LowerCircuit:INR 1,390.85 UpperCircuit:INR 1,699.85:NSE.M&M-EQ for C-XM39841 [FYERS_RISK_CUG]', 'id': ''}
