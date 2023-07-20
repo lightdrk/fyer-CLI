@@ -1,0 +1,16 @@
+aspose-pdf==23.5.0
+asyncio==3.4.3
+certifi==2023.5.7
+charset-normalizer==3.1.0
+cryptography==41.0.1
+distlib==0.3.6
+filelock==3.12.0
+fyers-apiv2==2.0.7
+pdfminer==20191125
+pdfminer.six==20221105
+platformdirs==3.5.1
+pycryptodome==3.18.0
+urllib3==1.26.16
+virtualenv==20.23.0
+websocket-client==1.2.1
+websockets==8.1
