@@ -90,7 +90,7 @@ The FYERS-CLI also offers a live market data feature. It allows you to subscribe
 
 1. Ensure you have the necessary credentials by generating the authentication code and access token.
 
-2. Open the `config/marketdata.conf` file and set the `symbol` to the desired trading symbol.
+2. Open the `config/marketdata.conf` file and set the `symbol` to the desired trading symbols and `time` in sec for delay.
 
 3. Run the live market data process using the command:
 
