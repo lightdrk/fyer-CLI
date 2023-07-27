@@ -1,3 +1,5 @@
+---
+
 # FYERS-CLI
 
 FYERS-CLI is a command-line interface that allows you to interact with the FYERS trading platform. It provides various commands and options to perform different tasks, including order placement, order modification, order cancellation, fetching quotes, fetching order history, and more. Additionally, it offers a live market data feature to keep you updated with real-time price changes.
@@ -170,7 +172,7 @@ The FYERS-CLI tool provides a convenient way to interact with the FYERS trading 
 
 Note: The examples provided are for illustrative purposes and may need to be modified based on your specific use case.
 
-For more information, refer to the [FYERS API documentation]([https://api-docs.fyers.in/v1.0/docs/introduction]).
+For more information, refer to the [FYERS API documentation](https://fyers.in/products/api/).
 
 ---
 
