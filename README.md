@@ -175,5 +175,3 @@ Note: The examples provided are for illustrative purposes and may need to be mod
 For more information, refer to the [FYERS API documentation](https://fyers.in/products/api/).
 
 ---
-
-Now, the `readme.md` file includes detailed information about how to use the live market data feature in the FYERS-CLI.
