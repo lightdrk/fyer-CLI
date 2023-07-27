@@ -170,7 +170,7 @@ The FYERS-CLI tool provides a convenient way to interact with the FYERS trading 
 
 Note: The examples provided are for illustrative purposes and may need to be modified based on your specific use case.
 
-For more information, refer to the [FYERS API documentation](https://api-docs.fyers.in/v1.0/docs/introduction).
+For more information, refer to the [FYERS API documentation]([https://api-docs.fyers.in/v1.0/docs/introduction](https://myapi.fyers.in/docs)).
 
 ---
 
