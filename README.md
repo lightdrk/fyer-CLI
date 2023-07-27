@@ -110,7 +110,8 @@ You will start receiving real-time market data for the specified symbol, includi
 
 ```json
 {
-  "symbol": ["NSE:SBIN-EQ"]
+  "symbol": ["NSE:SBIN-EQ"],
+  "time": 1
 }
 ```
 
