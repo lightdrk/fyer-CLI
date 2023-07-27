@@ -24,10 +24,13 @@ def run_process_symbol_data(access_token):
     with open(os.path.join(os.getcwd(),'config/marketdata.conf'),'r') as config:
         conf = json.load(config)
     symbol = conf['symbol']
+    time = conf['time']
     fs = ws.FyersSocket(access_token=access_token,run_background=False,log_path="")
     fs.websocket_data = custom_message
     fs.subscribe(symbol=symbol,data_type=data_type)
-    fs.keep_running()
+    while True:
+        fs.keep_running()
+        time.sleep(time)
 
 
 def custom_message(msg):
